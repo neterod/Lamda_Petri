@@ -378,6 +378,14 @@ body {
   border-bottom: #008ed6 3px solid;
   opacity: 0.8; }
 
+#home-section {
+  background: url("../images/home.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+
 .jumbotron-home-1 {
   background-image: url(../images/PIA20357-1920x1200.jpg); }
 
